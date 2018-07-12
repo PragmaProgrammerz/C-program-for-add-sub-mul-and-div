@@ -1,0 +1,9 @@
+G:\VS C++\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+G:\VS C++\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+G:\VS C++\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+G:\VS C++\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csprojResolveAssemblyReference.cache
+G:\VS C++\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+G:\VS C++\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+G:\VS C++\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.Cache
+G:\VS C++\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+G:\VS C++\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
